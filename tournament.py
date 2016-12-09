@@ -153,12 +153,3 @@ def show_output():
 	db.close
 	return results1,results2
 
-"""
-registerPlayer("gother")
-registerPlayer("mother")
-registerPlayer("bather")
-registerPlayer("Jother")
-reportMatch(9,10)
-reportMatch(11,12)
-print playerStandings()
-"""
